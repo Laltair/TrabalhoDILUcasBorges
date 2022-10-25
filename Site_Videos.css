@@ -1,0 +1,33 @@
+header {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+img {
+    padding: 0px;
+    height: 80px;
+}
+
+h1 {
+    text-align: center;
+    color: orangered;
+  }
+
+  body {
+        background-image: url(C:/Users/LucasAyangBorges-Sag/OneDrive%20-%20SAGRES%20OPERAÇÕES%20PORTUÁRIAS/Área%20de%20Trabalho/Código/fundo.jpg);
+  }
+
+div {
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.3;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: orangered;
+    display: block;
+    
+}
